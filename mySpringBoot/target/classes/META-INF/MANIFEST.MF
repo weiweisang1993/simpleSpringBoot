@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: mySpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.weiweisang
+Build-Jdk: 1.6.0_43
+Built-By: ￧ﾂﾜ￥ﾓﾥ
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/mySpringBoot
+ /
+
